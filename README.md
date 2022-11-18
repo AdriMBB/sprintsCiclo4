@@ -10,5 +10,5 @@
 * Dirijase al navegador a la direccion [http://localhost:3000/]( http://localhost:3000/) o ctrl + clic en la consola para saltar al navegador
 
 ## Requerimientos:
- ```node 16.18 ```
+ ```node 16.18.0 ```
  
